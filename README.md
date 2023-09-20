@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p> 
-📫📌  Born and living in Singapore 
+📫📌  Born and live in Singapore 
 </p>
 
 
