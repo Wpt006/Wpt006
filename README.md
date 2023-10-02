@@ -2,13 +2,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in a class of 11...
-- 🌱 I’m currently learning SQA ...
-- 🤔 I’m looking for help with work...
+
+- 🌱 I’m currently learning SQA 
+- 🤔 I’m looking for...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 - 😄 Pronouns: She/Her/They
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I like badminton
 
 <p> 
 📫📌  Born and live in Singapore 
