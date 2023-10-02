@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning SQA 
 - 🤔 I’m looking for...
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+<! --- - 📫 How to reach me: --->
 - 😄 Pronouns: She/Her/They
-- ⚡ Fun fact: I like badminton
+- ⚡ Fun fact: I like badminton!
 
 <p> 
 📫📌  Born and live in Singapore 
@@ -33,13 +33,11 @@ Here are some ideas to get you started:
 No Activity Tracked This Week
 
 
-🔥 Editors: 
-No Activity Tracked This Week
+
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System: 
-No Activity Tracked This Week
+
 ```
 
