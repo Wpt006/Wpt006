@@ -3,15 +3,14 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning SQA 
-- 🤔 I’m looking for...
-- 💬 Ask me about ...
-<! --- - 📫 How to reach me: --->
+- 🌱 I’m currently learning Python
+- 😀 I like playing puzzles, games and sports. 
+- 💬 Ask me about stationeries!
 - 😄 Pronouns: She/Her/They
-- ⚡ Fun fact: I like badminton!
+- ⚡ Fun fact: My favorite lesson in school was PE (physical education).
 
 <p> 
-📫📌  Born and live in Singapore 
+📫📌  I'm currently living n Singapore 
 </p>
 
 
@@ -35,8 +34,9 @@ No Activity Tracked This Week
 
 
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+<summary>📈 My GitHub Stats</summary>
+
+[dracula]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula
 
 
 ```
