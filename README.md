@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 
 - 🌱 I’m currently learning Python
 - 😀 I like playing puzzles, games and sports. 
